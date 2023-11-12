@@ -1,0 +1,21 @@
+/**
+ * Documentación de funciones de Git y GitHub
+ * 
+ * - git add: Agrega cambios al área de preparación
+ * - git commit: Registra los cambios en el repositorio
+ * - git push: Envía los cambios al repositorio remoto
+ * - git pull: Obtiene los cambios del repositorio remoto
+ * - git branch: Lista, crea o elimina ramas
+ * - git merge: Combina cambios de diferentes ramas
+ * - git clone: Clona un repositorio remoto en una carpeta local
+ * - git status: Muestra el estado actual del repositorio
+ * - git log: Muestra el historial de commits
+ * 
+ * - GitHub: Plataforma web para alojar proyectos y colaborar en ellos
+ * - Repositorio: Espacio donde se almacena el código y su historial
+ * - Fork: Copia de un repositorio ajeno en tu cuenta de GitHub
+ * - Pull Request: Solicitud para fusionar cambios de una rama a otra
+ * - Issue: Problema o tarea que se debe resolver en el proyecto
+ * - Wiki: Documentación del proyecto
+ * - README: Archivo con información básica del proyecto
+ */
